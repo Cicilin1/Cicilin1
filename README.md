@@ -13,6 +13,9 @@ Falaa pessoal, me chamo Guilherme!!
 </div>
 
 <br>
-<a href="www.linkedin.com/in/guilherme-cicilini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedi-logo"> </a>
+<a href="https://www.linkedin.com/in/guilherme-cicilini">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
+</a>
+
 
 
