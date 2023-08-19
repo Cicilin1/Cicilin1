@@ -12,4 +12,7 @@ Falaa pessoal, me chamo Guilherme!!
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=gruvbox" alt="Top Langs">
 </div>
 
+<br>
+<a href="www.linkedin.com/in/guilherme-cicilini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedi-logo"> </a>
+
 
