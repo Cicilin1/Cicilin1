@@ -30,6 +30,7 @@ Falaa pessoal, me chamo Guilherme!!
 
 <br>
 :bar_chart: Indicadores
+<br>
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" >
     <div style="width:20px;"></div> 
