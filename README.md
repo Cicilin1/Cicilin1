@@ -2,7 +2,7 @@ Falaa pessoal, me chamo Guilherme!!
 ---
  :rocket: Sou um desenvolvedor Front-End fascinado por tecnologia e novas ideias.
  <br>
- :brain: Faço parte do <a href="https://www.linkedin.com/school/dev-club-devs/">Devclub</a> (Comunidade/Formação em Fullstack)
+ :brain: Faço parte do <a href="https://www.linkedin.com/school/dev-club-devs/" target="blank">Devclub</a> (Comunidade/Formação em Fullstack)
  
 <h2>:globe_with_meridians: Tecnologias</h2>
 <div>
