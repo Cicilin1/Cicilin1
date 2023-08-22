@@ -4,7 +4,7 @@ Falaa pessoal, me chamo Guilherme!!
  <br>
  :brain: Faço parte do <a href="https://www.linkedin.com/school/dev-club-devs/">Devclub</a> (Comunidade/Formação em Fullstack)
  
-<h4>:globe_with_meridians: Tecnologias</h4>
+<h2>:globe_with_meridians: Tecnologias</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,11 +20,15 @@ Falaa pessoal, me chamo Guilherme!!
 <br>
 
 💬 Conecte-se Comigo
-<br>
+<br><br>
  <a href="https://www.linkedin.com/in/guilherme-cicilini">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
  </a>
+ <a href="guilherme.cicilni@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
 
+<br><br><br>
 :bar_chart: Indicadores
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" >
