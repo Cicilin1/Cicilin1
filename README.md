@@ -28,7 +28,7 @@ Falaa pessoal, me chamo Guilherme!!
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
 
-<br><br>
+<br>
 :bar_chart: Indicadores
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" >
