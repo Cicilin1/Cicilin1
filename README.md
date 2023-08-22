@@ -33,7 +33,7 @@ Falaa pessoal, me chamo Guilherme!!
 <br>
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" >
-    <div style="width:20px;"></div> 
+    <div style="width:10px;"></div> 
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=gruvbox" alt="Top Langs">
 </div>
