@@ -29,8 +29,8 @@ Falaa pessoal, me chamo Guilherme!!
  </a>
 
 <br>
-:bar_chart: Indicadores
-<br><br>
+<div>:bar_chart: Indicadores</div>
+<br>
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" >
     <div style="width:20px;"></div> 
