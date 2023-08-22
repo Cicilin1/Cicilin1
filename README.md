@@ -1,10 +1,15 @@
 Falaa pessoal, me chamo Guilherme!!
 ---
+ :rocket: Sou um desenvolvedor Front-End fascinado por tecnologia e novas ideias.
+ 
 
-> Sou um desenvolvedor Front-End fascinado por tecnologia e novas ideias. Decidi entrar nesta área porque sempre me interessei por assuntos relacionados a software e computadores. Desde que comecei a escrever meus primeiros códigos, comecei a entender como os programas funcionam por dentro e o que está por trás das interfaces que vemos. Percebi que consigo criar coisas interessantes e úteis usando apenas algumas declarações. Essa jornada me fez enxergar o mundo de forma diferente e encontrar minha vocação.
+<h3>Porque programação ? </h3> 
+
+> Decidi entrar na programação porque sempre me interessei em entender como os programas funcionam. Ao começar a escrever meus primeiros códigos, percebi minha habilidade em criar coisas úteis com poucas linhas de comando, o que mudou minha visão do mundo e me ajudou a  encontrar minha vocação.
 
 <br>
 
+:bar_chart: Indicadores
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" >
     <div style="width:20px;"></div> 
@@ -13,6 +18,8 @@ Falaa pessoal, me chamo Guilherme!!
 </div>
 
 <br>
+💬 Conecte-se Comigo
+<br><br>
 <a href="https://www.linkedin.com/in/guilherme-cicilini">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
 </a>
