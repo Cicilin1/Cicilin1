@@ -33,6 +33,7 @@ Falaa pessoal, me chamo Guilherme!!
     <div style="width:10px;"></div> 
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=gruvbox" alt="Top Langs">
+ )
 </div>
 
 
