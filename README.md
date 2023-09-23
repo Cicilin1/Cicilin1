@@ -1,10 +1,10 @@
 Falaa pessoal, me chamo Guilherme!!
 ---
- :rocket: Sou um desenvolvedor Front-End fascinado por tecnologia e novas ideias.
- <br>
- :brain: Faço parte do <a href="https://www.linkedin.com/school/dev-club-devs/" target="_blank">Devclub</a> (Comunidade/Formação em Fullstack)
- 
-<h2>:globe_with_meridians: Tecnologias</h2>
+:rocket: Sou um desenvolvedor Front-End fascinado por tecnologia e novas ideias.
+<br>
+:brain: Faço parte do Devclub (Comunidade/Formação em Fullstack)
+
+## :globe_with_meridians: Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -14,7 +14,7 @@ Falaa pessoal, me chamo Guilherme!!
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-<h3>Porque programação ? </h3> 
+### Porque programação ? 
 
 > Decidi entrar na programação porque sempre me interessei em entender como os programas funcionam. Ao começar a escrever meus primeiros códigos, percebi minha habilidade em criar coisas úteis com poucas linhas de comando, o que mudou minha visão do mundo e me ajudou a  encontrar minha vocação.
 <br>
