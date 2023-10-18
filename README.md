@@ -1,6 +1,6 @@
 Falaa pessoal, me chamo Guilherme!!
 ---
-:rocket: Sou um desenvolvedor Front-End fascinado por tecnologia e novas ideias.
+:rocket: Sou um desenvolvedor web fascinado por tecnologia e novas ideias.
 <br>
 :brain: Faço parte do Devclub (Comunidade/Formação em Fullstack)
 
