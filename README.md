@@ -27,13 +27,14 @@ Falaa pessoal, me chamo Guilherme!!
 </a>
 
 <br>
-<div>:bar_chart: Indicadores</div>
+<div align="center">:bar_chart: Indicadores</div>
 <br>
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" >
-    <div style="width:10px;"></div> 
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=gruvbox" alt="Top Langs">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=gruvbox" alt="Cicilin1 stats" style="max-height: 5rem; width:30vw; border: none;">
+</div>
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=gruvbox" alt="Top Langs" style="max-height: 5rem; width:25rem; border: none;">
 </div>
 
 
