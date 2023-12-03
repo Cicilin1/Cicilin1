@@ -24,9 +24,10 @@ Falaa pessoal, me chamo Guilherme!!
 
 💬 Conecte-se Comigo
 <br><br>
-<a href="https://www.linkedin.com/in/guilherme-cicilini" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-cicilini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" target="_blank"></a>
+  <a href = "mailto:cicilinideveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
 
 <br>
 <div align="center">:bar_chart: Indicadores</div>
