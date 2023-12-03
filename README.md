@@ -26,16 +26,20 @@ Falaa pessoal, me chamo Guilherme!!
 <br>
 <div align="center">:bar_chart: Indicadores</div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/Cicilin1/github-readme-stats">
     <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=transparent" />
   </a>
-  <a href="https://github.com/Cicilin1/github-readme-stats">
-  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=transparent" />
-  </a>
 </div>
 
-<br>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/Cicilin1/github-readme-stats">
+    <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=transparent" />
+  </a>
+</div>
+<br><br>
+
+
 <div align="center">
   💬 Conecte-se Comigo
   <br><br>
