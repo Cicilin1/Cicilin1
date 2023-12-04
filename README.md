@@ -35,7 +35,7 @@ Falaa pessoal, me chamo Guilherme!!
   <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=transparent" />
   </a>
 </div>
-<br><br>
+<br>
 
 
 <div align="center">
