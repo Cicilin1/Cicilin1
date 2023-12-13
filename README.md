@@ -16,29 +16,11 @@ Falaa pessoal, me chamo Guilherme!
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  
 </div>
 
 ### Porque programação ? 
-
 > Decidi entrar na programação porque sempre me interessei em entender como os programas funcionam. Ao começar a escrever meus primeiros códigos, percebi minha habilidade em criar coisas úteis com poucas linhas de comando, o que mudou minha visão do mundo e me ajudou a  encontrar minha vocação.
 <br>
-
-
-<br>
-<div align="center">:bar_chart: Indicadores</div>
-
-<div align="center">
-  <a href="https://github.com/Cicilin1/github-readme-stats">
-    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=transparent" />
-  </a>
-  
-  <a href="https://github.com/Cicilin1/github-readme-stats">
-  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=transparent" />
-  </a>
-</div>
-<br>
-
 
 <div align="center">
   💬 Conecte-se Comigo
@@ -48,6 +30,21 @@ Falaa pessoal, me chamo Guilherme!
   <a href = "mailto:cicilinideveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   </div>
  </div>
+
+<br>
+<div align="center">:bar_chart: Indicadores</div>
+<div align="center">
+  <a href="https://github.com/Cicilin1/github-readme-stats">
+    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/Cicilin1/github-readme-stats">
+  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=transparent" />
+  </a>
+</div>
+<br>
+
+
+
 
 
 
