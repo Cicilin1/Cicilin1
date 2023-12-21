@@ -17,6 +17,8 @@ Falaa pessoal, me chamo Guilherme!
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt ="Figma-logo">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt ="Bootstrap-logo">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express-logo"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite-logo"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel-logo">
 </div>
 
 ### Porque programação ? 
