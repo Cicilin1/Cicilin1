@@ -3,6 +3,8 @@ Falaa pessoal, me chamo Guilherme!
 :rocket: Sou um desenvolvedor web fascinado por tecnologia e novas ideias.
 <br>
 :brain: Faço parte do Devclub (Comunidade/Formação em Fullstack)
+<br>
+:books: Cursando: Bacharelado em Ciência de Dados - Univesp
 
 ## :globe_with_meridians: Tecnologias
 <div>
