@@ -22,7 +22,7 @@ Falaa pessoal, me chamo Guilherme!
 </div>
 
 ### Porque programação ? 
-> Decidi entrar na programação porque sempre me interessei em entender como os programas funcionam. Ao começar a escrever meus primeiros códigos, percebi minha habilidade em criar coisas úteis com poucas linhas de comando, o que mudou minha visão do mundo e me ajudou a  encontrar minha vocação.
+> No início, escolhi a programação por curiosidade em entender como os programas funcionam. Mas quando comecei a criar meus primeiros projetos, percebi a capacidade de dar vida às ideias e perceber o impacto significativo que podem ter na resolução de problemas por meio do código. Foi ai que descobri minha vocação! 
 <br>
 
 <div align="center">
