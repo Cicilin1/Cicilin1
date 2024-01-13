@@ -16,12 +16,20 @@ Falaa pessoal, me chamo Guilherme!
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js-logo">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git-logo">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt ="Styled-components-logo">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt ="Figma-logo">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt ="Bootstrap-logo">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express-logo"/>
+</div>
+
+## :hammer_and_wrench: Ferramentas e ecossistemas
+<div>
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite-logo"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel-logo">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt ="Figma-logo">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker-logo">
+
 </div>
+
+<br>
 
 ### Porque programação ? 
 > No início, escolhi a programação por curiosidade em entender como os programas funcionam. Mas quando comecei a criar meus primeiros projetos, percebi a capacidade de dar vida às ideias e perceber o impacto significativo que podem ter na resolução de problemas por meio do código. Foi ai que descobri minha vocação! 
