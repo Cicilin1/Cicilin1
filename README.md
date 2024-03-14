@@ -1,6 +1,6 @@
 Falaa pessoal, me chamo Guilherme!
 ---
-:rocket:Desenvolvedor web
+:rocket: Desenvolvedor web
 <br>
 :brain: Faço parte do Devclub (Comunidade/Formação em Fullstack)
 <br>
