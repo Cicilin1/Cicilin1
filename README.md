@@ -52,7 +52,7 @@ Falaa pessoal, me chamo Guilherme!
 <div align="center">:bar_chart: Indicadores</div>
 <div align="center">
   <a href="https://github.com/Cicilin1/github-readme-stats">
-    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=transparent" />
+    <img width=380 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/Cicilin1/github-readme-stats">
   <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=transparent" />
