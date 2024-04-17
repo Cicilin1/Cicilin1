@@ -5,6 +5,9 @@ Falaa pessoal, me chamo Guilherme!
 :brain: Faço parte do Devclub (Comunidade/Formação em Fullstack)
 <br>
 :books: Cursando: Bacharelado em Ciência de Dados - Univesp
+### Porque programação ? 
+> No início, escolhi a programação por curiosidade em entender como os programas funcionam. Mas quando comecei a criar meus primeiros projetos, percebi a capacidade de dar vida às ideias e perceber o impacto significativo que podem ter na resolução de problemas por meio do código. Foi ai que descobri minha vocação! 
+<br>
 
 ## :globe_with_meridians: Tecnologias
 <div>
@@ -35,20 +38,6 @@ Falaa pessoal, me chamo Guilherme!
    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier-badge">
 </div>
 
-<br>
-
-### Porque programação ? 
-> No início, escolhi a programação por curiosidade em entender como os programas funcionam. Mas quando comecei a criar meus primeiros projetos, percebi a capacidade de dar vida às ideias e perceber o impacto significativo que podem ter na resolução de problemas por meio do código. Foi ai que descobri minha vocação! 
-<br>
-
-<div align="center">
-  💬 Entre em contato Comigo
-  <br><br>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/guilherme-cicilini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" target="_blank"></a>
-  <a href = "mailto:cicilinideveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  </div>
- </div>
 
 <br>
 <div align="center">:bar_chart: Indicadores</div>
@@ -61,6 +50,16 @@ Falaa pessoal, me chamo Guilherme!
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  💬 Entre em contato Comigo
+  <br><br>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/guilherme-cicilini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" target="_blank"></a>
+  <a href = "mailto:cicilinideveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  </div>
+ </div>
 
 
 
