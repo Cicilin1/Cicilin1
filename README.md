@@ -42,7 +42,7 @@ Falaa pessoal, me chamo Guilherme!
 <br>
 
 <div align="center">
-  💬 Conecte-se Comigo
+  💬 Entre em contato Comigo
   <br><br>
   <div align="center">
     <a href="https://www.linkedin.com/in/guilherme-cicilini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" target="_blank"></a>
