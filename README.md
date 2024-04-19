@@ -2,7 +2,7 @@ Falaa pessoal, me chamo Guilherme!
 ---
 :rocket: Desenvolvedor web
 <br>
-:brain: Faço parte do Devclub (Comunidade/Formação em Fullstack)
+:brain: Faço parte do Devclub (Comunidade/Formação Fullstack)
 <br>
 :books: Cursando: Bacharelado em Ciência de Dados - Univesp
 ### Porque programação ? 
