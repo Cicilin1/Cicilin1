@@ -6,7 +6,7 @@ Falaa pessoal, me chamo Guilherme!
 <br>
 :books: Cursando: Bacharelado em Ciência de Dados - Univesp
 ### Porque programação ? 
-> No início, escolhi a programação por curiosidade em entender como os programas funcionam. Mas quando comecei a criar meus primeiros projetos, percebi a capacidade de dar vida às ideias e perceber o impacto significativo que podem ter na resolução de problemas por meio do código. Foi ai que descobri minha vocação! 
+>Sempre me interessei por computadores e tecnologia, fascinado em entender o que ocorria por trás das telas. Ao começar a criar meus primeiros códigos e resolver os primeiros bugs, descobri minha vocação. Percebi que a programação pode ser um meio para resolver problemas reais e impactar positivamente a vida das pessoas, o que me motivou a decidir pela área de tecnologia para minha carreira 
 <br>
 
 ## :globe_with_meridians: Tecnologias
