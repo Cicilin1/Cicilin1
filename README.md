@@ -4,7 +4,7 @@ Falaa pessoal, me chamo Guilherme!
 <br>
 :brain: Faço parte do Devclub (Comunidade/Formação Fullstack)
 <br>
-:books: Cursando: Bacharelado em Ciência de Dados - Univesp
+:books: Cursando Bacharelado em Ciência de Dados - Univesp
 ### Porque programação ? 
 >Sempre me interessei por computadores e tecnologia, fascinado em entender o que ocorria por trás das telas. Ao começar a criar meus primeiros códigos e resolver os primeiros bugs, descobri minha vocação. Percebi que a programação pode ser um meio para resolver problemas reais e impactar positivamente a vida das pessoas, o que me motivou a decidir pela área de tecnologia para minha carreira.
 <br>
