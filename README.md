@@ -1,4 +1,4 @@
-Falaa pessoal, me chamo Guilherme!
+Hey, me chamo Guilherme!
 ---
 :rocket: Desenvolvedor web
 <br>
