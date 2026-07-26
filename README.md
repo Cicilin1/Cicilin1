@@ -38,12 +38,12 @@ Cursando Bacharelado em Ciência de Dados - Univesp
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize-badge">
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
-  💬 Entre em contato Comigo
+<div>
+  Entre em contato Comigo
   <br><br>
-  <div align="center">
+  <div>
     <a href="https://www.linkedin.com/in/guilherme-cicilini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" target="_blank"></a>
   <a href = "mailto:cicilinideveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   </div>
