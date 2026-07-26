@@ -1,10 +1,10 @@
 Hey, me chamo Guilherme!
 ---
-:rocket: Desenvolvedor web
+Desenvolvedor web
 <br>
-:brain: Faço parte do Devclub (Comunidade/Formação Fullstack)
+Faço parte do Devclub (Comunidade/Formação Fullstack)
 <br>
-:books: Cursando Bacharelado em Ciência de Dados - Univesp
+Cursando Bacharelado em Ciência de Dados - Univesp
 ### Porque programação ? 
 >Sempre me interessei por computadores e tecnologia, fascinado em entender o que ocorria por trás das telas. Ao começar a criar meus primeiros códigos e resolver os primeiros bugs, descobri minha vocação. Percebi que a programação pode ser um meio para resolver problemas reais e impactar positivamente a vida das pessoas, o que me motivou a decidir pela área de tecnologia para minha carreira.
 <br>
@@ -36,18 +36,6 @@ Hey, me chamo Guilherme!
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt ="Figma-logo">
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker-logo">
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize-badge">
-</div>
-
-
-<br><br>
-<div align="center">:bar_chart: Indicadores</div>
-<div align="center">
-  <a href="https://github.com/Cicilin1/github-readme-stats">
-    <img width=380 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cicilin1&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/Cicilin1/github-readme-stats">
-  <img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cicilin1&layout=compact&theme=transparent" />
-  </a>
 </div>
 
 <br>
