@@ -9,7 +9,7 @@ Cursando Bacharelado em Ciência de Dados - Univesp
 >Sempre me interessei por computadores e tecnologia, fascinado em entender o que ocorria por trás das telas. Ao começar a criar meus primeiros códigos e resolver os primeiros bugs, descobri minha vocação. Percebi que a programação pode ser um meio para resolver problemas reais e impactar positivamente a vida das pessoas, o que me motivou a decidir pela área de tecnologia para minha carreira.
 <br>
 
-## :globe_with_meridians: Tecnologias
+## Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5-logo">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3-logo">
@@ -28,7 +28,7 @@ Cursando Bacharelado em Ciência de Dados - Univesp
 </div>
 <br>
 
-## :hammer_and_wrench: Ferramentas e ecossistemas
+## Ferramentas e ecossistemas
 <div>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git-logo">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite-logo"/>
