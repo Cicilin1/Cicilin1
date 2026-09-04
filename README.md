@@ -1,4 +1,4 @@
-# Hey, me chamo Guilherme!
+# Guilherme Cicilini
 
 Atuo como Product Owner, com experiência em levantamento de requisitos, priorização de funcionalidades e evolução de produtos digitais, conectando as áreas de negócio e tecnologia.
 
