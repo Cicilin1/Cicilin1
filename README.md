@@ -8,8 +8,6 @@ Meu objetivo é fortalecer a capacidade de transformar necessidades de negócio 
 
 Atualmente, curso Bacharelado em Ciência de Dados pela Univesp.
 
-<br>
-
 <h3>Tecnologias</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -20,24 +18,23 @@ Atualmente, curso Bacharelado em Ciência de Dados pela Univesp.
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
-</div>
-
-<h3>Banco de dados</h3>
-<div>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-<h3>Ferramentas e ecossistemas</h3>
+---
 
-<div>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" alt="Sequelize">
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Cicilin1&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+
 </div>
+
+<br>
 
 <h3>Entre em contato comigo</h3> 
 <div>
